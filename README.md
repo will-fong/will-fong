@@ -2,8 +2,8 @@
 
 #### I'm a Technology Consultant based out of Vancouver, Canada.
 
-<a href="https://metrics.lecoq.io/about/will-fong"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/will-fong"><img src="metrics-base.svg" align="right" width="47.5%"></img></a>  
+<a href="https://metrics.lecoq.io/about/will-fong"><img src="metrics-achievements.svg" align="left" width="40%"></img></a>
+<a href="https://metrics.lecoq.io/about/will-fong"><img src="metrics-base.svg" align="center" width="40%"></img></a>  
 
 ##### What's going on?
 
